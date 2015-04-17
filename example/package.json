@@ -1,0 +1,19 @@
+{
+  "name": "test-gulp-reiny",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reiny": "^0.1.5"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.9.2",
+    "gulp": "^3.8.11",
+    "gulp-reiny": "^0.1.1"
+  }
+}
