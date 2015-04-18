@@ -1,10 +1,10 @@
 {
   "name": "gulp-reiny",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "reiny": "^0.1.5",
+    "reiny": "^0.1.6",
     "replace-ext": "0.0.1",
     "through2": "^0.6.5"
   },
