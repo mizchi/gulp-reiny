@@ -1,4 +1,4 @@
-reiny = require 'reiny'
+reiny = require 'reiny/lib'
 through = require 'through2'
 replaceExt = require 'replace-ext'
 

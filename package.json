@@ -1,7 +1,7 @@
 {
   "name": "gulp-reiny",
   "version": "0.2.0",
-  "description": "",
+  "description": "reiny plugin for gulp",
   "main": "index.js",
   "dependencies": {
     "reiny": "^0.2.0",
@@ -13,6 +13,21 @@
     "prepublish": "coffee -c index.coffee",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "mizchi",
+  "license": "MIT",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mizchi/gul-reiny.git"
+  },
+  "keywords": [
+    "react",
+    "reiny"
+  ],
+  "bugs": {
+    "url": "https://github.com/mizchi/gul-reiny/issues"
+  },
+  "homepage": "https://github.com/mizchi/gul-reiny"
 }
