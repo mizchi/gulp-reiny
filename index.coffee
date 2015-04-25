@@ -8,7 +8,7 @@ module.exports = (opt) ->
       @push(file)
       return callback()
     else if file.isBuffer()
-      file.contents = new Buffer reiny.compile(file.contents.toString())
+      file.contents = new Buffer reiny.compile(file.contents.toString(), opt)
       file.path = replaceExt(file.path, '.js')
       @push(file)
       return callback()
