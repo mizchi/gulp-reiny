@@ -1,10 +1,10 @@
 {
   "name": "gulp-reiny",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "reiny plugin for gulp",
   "main": "index.js",
   "dependencies": {
-    "reiny": "^0.5.1",
+    "reiny": "^0.5.2",
     "replace-ext": "0.0.1",
     "through2": "^0.6.5"
   },
